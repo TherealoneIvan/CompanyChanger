@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<departments>
+   <department name="v">
+      <employments>         <employment>
+            <surname>v</surname>
+            <name>v</name>
+            <middleName>v</middleName>
+            <function>v</function>
+            <salary>12</salary>
+         </employment>
+      </employments>
+   </department>
+   <department name="a">
+      <employments>         <employment>
+            <surname>a</surname>
+            <name>a</name>
+            <middleName>a</middleName>
+            <function>a</function>
+            <salary>1</salary>
+         </employment>
+         <employment>
+            <surname>a</surname>
+            <name>a</name>
+            <middleName>a</middleName>
+            <function>b</function>
+            <salary>2</salary>
+         </employment>
+      </employments>
+   </department>
+</departments>
